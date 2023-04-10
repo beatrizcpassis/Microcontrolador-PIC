@@ -1,6 +1,6 @@
 ## Microcontrolador PIC
 
-Mini projetos realizados durante a disciplina de Microcontroladores e Microprocessadores do curso de Engenharia de Telecomunicações. Foi utilizado o PIC18F4520 em conjunto ao simulador de circuitos Proteus e ferramentas associadas.
+<p align="justify"> Mini projetos realizados durante a disciplina de Microcontroladores e Microprocessadores do curso de Engenharia de Telecomunicações. Foi utilizado o PIC18F4520 em conjunto ao simulador de circuitos Proteus e ferramentas associadas. </p>
 
 ## Alguns dos projetos desenvolvidos
 
